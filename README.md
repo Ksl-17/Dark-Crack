@@ -12,3 +12,9 @@ pip install requests bs4
 pip install futures
 
 apt install git
+https://github.com/Ksl-17/Dark-Crack
+cd Dark-Crack
+python Dark-Crack.py
+
+
+
